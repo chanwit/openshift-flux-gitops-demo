@@ -1,7 +1,7 @@
 # openshift-flux-gitops-demo
-GitOps demo with Flux v2 on OpenShift
+A GitOps demo with Flux v2 on OpenShift
 
-# Steps
+## Steps
 
 Clone this repo
 ```
