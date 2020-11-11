@@ -22,3 +22,5 @@ Install the Flux v2 runtime
 ```
 $ flux bootstrap github 
 ```
+
+Secret seal with Kubeseal
